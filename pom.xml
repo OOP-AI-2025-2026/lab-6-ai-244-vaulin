@@ -5,11 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ua.opnu</groupId>
-    <artifactId>lab-6t</artifactId>
+    <artifactId>lab-6t-ai-244-vaulin</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>list</module>
+        <module>mainprog</module>
+        <module>draw</module>
     </modules>
 
     <dependencies>
