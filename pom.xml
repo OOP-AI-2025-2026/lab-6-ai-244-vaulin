@@ -11,6 +11,7 @@
     <modules>
         <module>list</module>
         <module>mainprog</module>
+        <module>draw</module>
     </modules>
 
     <dependencies>
